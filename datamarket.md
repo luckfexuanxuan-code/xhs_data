@@ -35,7 +35,6 @@
 | `GET` | `/api/douyin_video_detail` | 获取视频详情 |
 | `GET` | `/api/douyin_comment` | 获取视频评论 |
 | `GET` | `/api/douyin_sub_comment` | 获取视频子评论 |
-| `POST` | `/api/douyin_search_video` | 搜索视频 |
 
 ---
 
