@@ -616,7 +616,6 @@
 
 - 📧 邮箱：`luckfe.xuanzheng@gmail.com`
 - 💬 微信：`luckfe_zx`
-- 🐧 TG：`@luckfezx`
 
 欢迎合作、、订阅。
 
