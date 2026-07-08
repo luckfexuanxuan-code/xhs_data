@@ -613,8 +613,6 @@
 
 
 ## 📮 联系 & 授权
-
-- 📧 邮箱：`luckfe.xuanzheng@gmail.com`
 - 💬 tg：`@luckfezx`
 
 欢迎合作、、订阅。
